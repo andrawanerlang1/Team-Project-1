@@ -1,7 +1,7 @@
 # Team-Project-1
 
 ini fitur login
-ini fitur login yang baru
+login page
 ini fitur origin yang baru
 
 ini coba coba
