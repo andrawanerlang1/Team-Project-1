@@ -1,4 +1,4 @@
 # Team-Project-1
 
-ini branch main
-ini branch developement
+ini fitur login
+ini fitur register
